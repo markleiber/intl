@@ -1,0 +1,8 @@
+{
+	"settings": "settings",
+	"home": "home", 
+	"welcome text": "Welcome to Meteor!",
+	"home text": "This is the home page.",
+	"settings text": "On this page you can modify settings."
+}
+

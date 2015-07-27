@@ -1,0 +1,16 @@
+<template name="layout">
+  <h1>{{_ "welcome text"}}</h1>
+
+  {{> yield}}
+</template>
+
+<template name="home">
+  <p>{{_ "home text"}}</p>
+  <p><a href="{{pathFor route='settings' lang=getCurrentLanguage}}">{{_ "settings"}}</a></p>
+</template>
+
+<template name="settings">
+  <p>{{_ "settings text"}}</p>
+  <p><a href="{{pathFor route='home' lang='en'}}">{{_ "home"}}</a></p>
+</template>
+

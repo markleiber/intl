@@ -1,0 +1,8 @@
+{
+        "settings": "parametres",
+        "home": "premiere", 
+	"welcome text": "Bienvenue au Meteor!",
+	"home text": "Cette page est la page d'accueil.",
+	"settings text": "Sur cette page vous pouvez modifier les parametres."
+}
+

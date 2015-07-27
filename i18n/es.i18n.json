@@ -1,0 +1,8 @@
+{
+        "settings": "configuracion",
+        "home": "inicial", 
+	"welcome text": "Bienvenido a Meteoro!",
+	"home text": "Esta es la pagina de inicio.",
+	"settings text": "En esta pagina usted puede modificar la configuracion."
+}
+
